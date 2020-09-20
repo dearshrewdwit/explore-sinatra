@@ -10,7 +10,7 @@
 2. `cd` into it
 3. `bundle install` the dependencies
 4. `bundle exec rackup` to start the server
-4. navigate to `localhost:92920`
+4. navigate to `localhost:9292`
 
 ### Instructions
 
